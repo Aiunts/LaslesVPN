@@ -580,7 +580,7 @@ body {
   z-index: 1;
   width: 16px;
   height: 16px;
-  background: url("../../img/star.png");
+  background: url("../img/star.png");
 }
 
 .slider__name {
